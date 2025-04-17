@@ -12,4 +12,4 @@
   - You need to have node version v20.17.0
   - `npm i`
 
-[DEMO LINK](https://github.com/Vitalii-Belostotskiy/space-travel.git)
+[DEMO LINK](https://vitalii-belostotskiy.github.io/space-travel/)
