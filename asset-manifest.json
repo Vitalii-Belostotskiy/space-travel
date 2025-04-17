@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.315920fb.css",
-    "main.js": "/static/js/main.731f048c.js",
-    "static/media/planet-03.png": "/static/media/planet-03.9c2760bbc366f4aa1314.png",
-    "static/media/rocket-out.png": "/static/media/rocket-out.a2ce57c9f358bd27bd37.png",
-    "static/media/planet-02.png": "/static/media/planet-02.2e2601d2470d2a70d94a.png",
-    "static/media/rocket.png": "/static/media/rocket.ac575869672b42786228.png",
-    "static/media/planet-01.png": "/static/media/planet-01.c6e4ebb18dfb20008f42.png",
-    "index.html": "/index.html",
-    "main.315920fb.css.map": "/static/css/main.315920fb.css.map",
-    "main.731f048c.js.map": "/static/js/main.731f048c.js.map"
+    "main.css": "/space-travel/static/css/main.315920fb.css",
+    "main.js": "/space-travel/static/js/main.634bbfe2.js",
+    "static/media/planet-03.png": "/space-travel/static/media/planet-03.9c2760bbc366f4aa1314.png",
+    "static/media/rocket-out.png": "/space-travel/static/media/rocket-out.a2ce57c9f358bd27bd37.png",
+    "static/media/planet-02.png": "/space-travel/static/media/planet-02.2e2601d2470d2a70d94a.png",
+    "static/media/rocket.png": "/space-travel/static/media/rocket.ac575869672b42786228.png",
+    "static/media/planet-01.png": "/space-travel/static/media/planet-01.c6e4ebb18dfb20008f42.png",
+    "index.html": "/space-travel/index.html",
+    "main.315920fb.css.map": "/space-travel/static/css/main.315920fb.css.map",
+    "main.634bbfe2.js.map": "/space-travel/static/js/main.634bbfe2.js.map"
   },
   "entrypoints": [
     "static/css/main.315920fb.css",
-    "static/js/main.731f048c.js"
+    "static/js/main.634bbfe2.js"
   ]
 }
